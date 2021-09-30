@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 class HomePage extends StatelessWidget {
   final int days = 30;
   final String flutter = "Flutter";
+
   @override
   Widget build(BuildContext context) {
     // TODO: implement build
